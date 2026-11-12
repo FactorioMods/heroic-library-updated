@@ -1,0 +1,11 @@
+{
+  "name": "heroic_library",
+  "version": "1.0.4",
+  "title": "HeroicLibrary",
+  "author": "HEROgold",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "A library mod for my own mods"
+}
