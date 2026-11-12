@@ -3,7 +3,7 @@ utilities = {}
 
 function utilities.debug(message)
   log(message)
-  if settings.global["__heroic_library__.heroic-debug"].value then
+  if settings.global["__heroic-library-updated__.heroic-debug"].value then
     game.print(message)
   end
 end

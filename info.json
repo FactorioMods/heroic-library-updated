@@ -1,11 +1,14 @@
 {
-  "name": "heroic_library",
-  "version": "1.0.4",
-  "title": "HeroicLibrary",
-  "author": "HEROgold",
-  "factorio_version": "2.0",
+  "name": "heroic-library-updated",
+  "version": "1.0.5",
+  "title": "HeroicLibrary: Updated",
+  "author": "HEROgold; johnmart19 / FactorioMods",
+  "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.0"
+    "base >= 2.1.24"
   ],
-  "description": "A library mod for my own mods"
+  "description": "A library mod for my own mods",
+  "migrates_from": [
+    "heroic_library"
+  ]
 }
